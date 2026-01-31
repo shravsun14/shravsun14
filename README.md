@@ -36,4 +36,42 @@
 
 | **Project Name** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
-| [**Captive Portal**](https
+| [**Captive Portal**](https://github.com/shravsun14/captive-portal) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | *Raspberry Pi Captive Network Setup for headless operation.* |
+| [**IoT SmartPlant**](https://github.com/shravsun14/smart-plant-feeder) | ![IoT](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white) | *Automated watering system with real-time Web Dashboard.* |
+| [**VEX Robotics**](https://github.com/shravsun14/vex-iq-slapshot-2022-2023) | ![Robotics](https://img.shields.io/badge/Robotics-VEX-DA291C) | *National Award Winning Python control loops & automation.* |
+
+---
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shravsun14&theme=onedark&no-frame=true&margin-w=15" alt="shravsun14" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=shravsun14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shravan's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravsun14&theme=tokyonight&hide_border=true" alt="Shravan's Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravsun14&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&hide_border=true" alt="Shravan's Activity Graph" />
+</div>
+
+---
+
+<p align="center">
+  <a href="https://about.shravsun.com">🌐 about.shravsun.com</a>
+</p>
