@@ -29,10 +29,11 @@ I am a self-taught programmer and systems administrator with a passion for **Rob
 
 ## 🧠 Notable Projects
 
-| **Captive Portal** | **IoT SmartPlant** | **VEX Robotics Code** |
-| :---: | :---: | :---: |
-| [![Captive Portal](https://github-readme-stats.vercel.app/api/pin/?username=shravsun14&repo=captive-portal&theme=tokyonight&hide_border=true)](https://github.com/shravsun14/captive-portal) | [![Smart Plant](https://github-readme-stats.vercel.app/api/pin/?username=shravsun14&repo=smart-plant-feeder&theme=tokyonight&hide_border=true)](https://github.com/shravsun14/smart-plant-feeder) | [![VEX IQ](https://github-readme-stats.vercel.app/api/pin/?username=shravsun14&repo=vex-iq-slapshot-2022-2023&theme=tokyonight&hide_border=true)](https://github.com/shravsun14/vex-iq-slapshot-2022-2023) |
-| *Raspberry Pi Captive Network Setup.* | *Auto-watering system w/ Web Dashboard.* | *National Award Winning Python Loops.* |
+| **Project Name** | **Tech Stack** | **Description** |
+| :--- | :--- | :--- |
+| [**Captive Portal**](https://github.com/shravsun14/captive-portal) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | *Raspberry Pi Captive Network Setup for headless operation.* |
+| [**IoT SmartPlant**](https://github.com/shravsun14/smart-plant-feeder) | ![IoT](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberry-pi&logoColor=white) | *Automated watering system with real-time Web Dashboard.* |
+| [**VEX Robotics**](https://github.com/shravsun14/vex-iq-slapshot-2022-2023) | ![Robotics](https://img.shields.io/badge/Robotics-VEX-DA291C) | *National Award Winning Python control loops & automation.* |
 
 ---
 
@@ -55,6 +56,5 @@ I am a self-taught programmer and systems administrator with a passion for **Rob
 ---
 
 <p align="center">
-  <i>"I have been working with macOS/Windows/Linux since age 8."</i><br>
   <a href="https://about.shravsun.com">🌐 about.shravsun.com</a>
 </p>
