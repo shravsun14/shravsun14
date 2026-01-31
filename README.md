@@ -43,15 +43,6 @@
 ---
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shravsun14&theme=onedark&no-frame=true&margin-w=15" alt="shravsun14" />
-  </a>
-</div>
-
----
-
-<div align="center">
   <h2>📊 GitHub Stats</h2>
   <table style="border: none;">
     <tr>
