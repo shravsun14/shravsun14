@@ -1,6 +1,6 @@
 # Hey there! I'm Shravan Sundar. 👋
 
-### Aspiring Systems Engineer | Year 11 @ QE Barnet | Linux & Python Enthusiast
+### Aspiring Software Engineer | Linux & Python Enthusiast
 
 I am a self-taught programmer and systems administrator with a passion for **Robotics**, **Network Security**, and **HomeLab Infrastructure**. I engineer solutions using Python, Docker, and Linux.
 
