@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <h2>🧰 Tools & Technologies</h2>
+  <h2>Tools & Technologies</h2>
 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -32,7 +32,15 @@
 
 ---
 
-## 🧠 Notable Projects
+## GCSE AQA Design & Technology NEA
+
+| **Project Name** | **Tech Stack** | **Description** |
+| :--- | :--- | :--- |
+| [**GCSE AQA Design & Technology NEA**](https://github.com/shravsun14/gcse-aqa-d&t-nea) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | *Raspberry Pi Plant Feeder Setup for GCSE AQA Technology NEA* |
+
+---
+
+## Notable Projects *(Projects may not open, WIP)*
 
 | **Project Name** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
