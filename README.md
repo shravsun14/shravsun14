@@ -36,7 +36,7 @@
 
 | **Project Name** | **Tech Stack** | **Description** |
 | :--- | :--- | :--- |
-| [**GCSE AQA Design & Technology NEA**](https://github.com/shravsun14/gcse-aqa-d-t-nea) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | *Raspberry Pi Plant Feeder Setup for GCSE AQA Technology NEA* |
+| [**GCSE AQA Design & Technology NEA**](https://github.com/shravsun14/gcse-aqa-d-t-nea) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | *Raspberry Pi Plant Feeder Setup for GCSE AQA Technology NEA* |
 
 ---
 
